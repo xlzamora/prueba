@@ -1,0 +1,20 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Node
+node_modules/
+dist/
+
+# Logs
+*.log
+
+# Env
+.env
+
+# OS
+.DS_Store
